@@ -18,7 +18,7 @@ tfoot, thead, tr, th, td, article, aside,
 canvas, details, embed, figure, figcaption,
 footer, header, hgroup, menu, nav, output, ruby,
 section, summary, time, mark, audio, video {
-	-webkit-text-stroke: .1px grey;
+	-webkit-text-stroke: .25px black;
 	margin: 0;
 	padding: 0;
 	border: 0;
